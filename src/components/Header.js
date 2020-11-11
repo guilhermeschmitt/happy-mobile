@@ -39,11 +39,11 @@ const styles = StyleSheet.create({
   container: {
     padding: 24,
     paddingTop: 44,
-    flexDirection: row,
+    flexDirection: 'row',
     borderBottomWidth: 1,
     alignItems: 'center',
     borderColor: '#dde3f0',
-    backgroundColor: 'f9fafc',
+    backgroundColor: '#f9fafc',
     justifyContent: 'space-between',
   },
   title: {
